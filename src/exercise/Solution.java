@@ -1,7 +1,13 @@
-package program;
+/**
+ * @author jhy
+ * code from 12.31 to
+ * 0 questions
+ */
 
-import java.util.Arrays;
-
+/**
+ * 2017/12/31
+ * 688. Knight Probability in Chessboard
+ * 
 class Solution {
 	int[][] moves = {{1,-2},{1,2},{2,-1},{2,1},{-2,1},{-2,-1},{-1,-2},{-1,2}};
     public double knightProbability(int N, int K, int r, int c) {
@@ -27,3 +33,19 @@ class Solution {
     	return row >= 0 && row < N && col >= 0 && col < N;
     }
 }
+
+
+ */
+
+package exercise;
+
+import java.util.Arrays;
+
+
+
+
+
+
+
+
+
