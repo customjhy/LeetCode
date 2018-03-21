@@ -976,7 +976,7 @@ class Solution {
  */
 package exercise;
 
-class Solution_Dec19th_To_Dec30th {
+class Solution_1219_To_1230 {
 
 }
 

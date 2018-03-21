@@ -955,6 +955,6 @@ public class Solution {
 
 package exercise;
 
-public class Solution_July8th_To_July25th {
+public class Solution_0708_To_0725 {
 
 }

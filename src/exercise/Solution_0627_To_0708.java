@@ -1054,6 +1054,6 @@ import java.util.Map;
 
 import javax.print.attribute.HashPrintRequestAttributeSet;
 
-public class Solution_June27th_To_July8th {
+public class Solution_0627_To_0708 {
 	
 }
